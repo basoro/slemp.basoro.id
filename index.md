@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<section id="install">Bagaimana cara pasang SLEMP?</section>
+
+<section id="features">Fitur-fitur SLEMP?</section>
+
+<section id="screenshot">Tangkapan layar SLEMP?</section>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -122,5 +128,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-
-<section id="features">Feature</section>
