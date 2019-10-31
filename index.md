@@ -55,5 +55,8 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 
 ### Dashboard
 
-![Branching](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png)
+![Dashboard](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png)
 
+![Monitor](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/monitor.png)
+
+![Firewall](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/firewall.png)
