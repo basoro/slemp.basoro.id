@@ -5,6 +5,9 @@ layout: default
 <section id="features">
   
 ## Apa itu SLEMP?
+
+</section>
+  
 Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana untuk Centos, Fedora, Debian, Ubuntu, Linux Mint, Raspberry, Deepin serta Distro-distro keluarga RPM dan DEB. Berisi perangkat lunak untuk kebutuhan server web yang dipasang dan dikonfigurasikan dari kode sumbernya (bukan paket bawaan distro). 
 
 ## Fitur-Fitur
@@ -23,8 +26,6 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
 * Replika Database (Master-Slave)
 * Sinkronisasi File (Rsync Lokal atau Remote)
 * Backup ke Google Drive
-
-</section>
 
 <section id="install">
   
