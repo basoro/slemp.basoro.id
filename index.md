@@ -53,5 +53,5 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 
 ### Dashboard
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png)
 
