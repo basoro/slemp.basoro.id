@@ -43,7 +43,7 @@ sudo yum install -y wget && sudo wget -O install.sh https://basoro.id/slemp.sh &
 ````
 #### Debian / Ubuntu / Linux Mint / Raspberry (.DEB Base)
 
-```ruby
+```bash
 sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 ````
 
