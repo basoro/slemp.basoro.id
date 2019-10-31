@@ -54,19 +54,16 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
   <img src="https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png" style="width:100%">
   <div class="text">Dashboard</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
   <img src="https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/monitor.png" style="width:100%">
   <div class="text">Moniter Server</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
   <img src="https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/firewall.png" style="width:100%">
   <div class="text">Pengaturan Firewall</div>
 </div>
