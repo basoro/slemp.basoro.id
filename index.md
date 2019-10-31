@@ -51,6 +51,8 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 
 ## Tangkapan layar SLEMP
 
+<a href="http://demo.slemp.basoro.id" class="btn">DEMO SLEMP</a>
+
 ### Dashboard
 
 ![Branching](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png)
