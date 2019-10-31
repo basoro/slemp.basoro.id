@@ -64,4 +64,6 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 ![Firewall](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/firewall.png)
 
 
+## Umpan Balik dan Komentar
 
+<br><br>
