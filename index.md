@@ -2,129 +2,49 @@
 layout: default
 ---
 
-<section id="install">Bagaimana cara pasang SLEMP?</section>
-
 <section id="features">Fitur-fitur SLEMP?</section>
+## Apa itu SLEMP?
+Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana untuk Centos, Fedora, Debian, Ubuntu, Linux Mint, Raspberry, Deepin serta Distro-distro keluarga RPM dan DEB. Berisi perangkat lunak untuk kebutuhan server web yang dipasang dan dikonfigurasikan dari kode sumbernya (bukan paket bawaan distro). 
+
+## Fitur-Fitur
+* Nginx (1.12 - 1.16)
+* MySQL (5.5 - 5.7) / MariaDB (10.0-10.3)
+* PHP-FPM (5.6-7.3)
+* PHPMyAdmin
+* Informasi Sistem (Server)
+* Site Manager
+* SSL
+* File Manager
+* Database Manager
+* Monitor CPU, Jaringan, Baca tulis Disk, Memory (RAM)
+* Firewall dan pencatatan keamanan
+* Crontab Manager
+* Replika Database (Master-Slave)
+* Sinkronisasi File (Rsync Lokal atau Remote)
+* Backup ke Google Drive
+
+<section id="install">Bagaimana cara pasang SLEMP?</section>
+## Persyaratan sistem:
+Memori: 128M atau lebih, disarankan 512M atau lebih
+Disk: Setidaknya 4GB ruang disk kosong
+Lainnya: Pastikan itu adalah sistem operasi yang bersih, tidak ada Apache / Nginx / PHP / MySQL / MariaDB yang diinstal sebelumnya.
+
+## Perintah Pemasangan
+
+### Centos / Fedora (.RPM Base)
+
+```ruby
+sudo curl -o install.sh https://basoro.id/slemp.sh && sudo bash install.sh
+````
+### Debian / Ubuntu / Linux Mint / Raspberry (.DEB Base)
+
+```ruby
+sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
+````
 
 <section id="screenshot">Tangkapan layar SLEMP?</section>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+### Dashboard
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
