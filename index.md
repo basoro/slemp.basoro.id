@@ -66,4 +66,3 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 
 ## Umpan Balik dan Komentar
 
-<br><br>
