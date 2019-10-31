@@ -80,19 +80,5 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
   <span class="dot"></span> 
 </div>
 
-
-### Dashboard
-
-![Dashboard](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/slemp.png)
-
-### Monitor Server
-
-![Monitor](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/monitor.png)
-
-### Pengaturan Firewall
-
-![Firewall](https://raw.githubusercontent.com/basoro/slemp.basoro.id/master/firewall.png)
-
-
 ## Umpan Balik dan Komentar
 
