@@ -30,9 +30,9 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
   
 ## Bagaimana cara pasang SLEMP?
 ### Persyaratan sistem
-Memori: 128M atau lebih, disarankan 512M atau lebih
-Disk: Setidaknya 4GB ruang disk kosong
-Lainnya: Pastikan itu adalah sistem operasi yang bersih, tidak ada Apache / Nginx / PHP / MySQL / MariaDB yang diinstal sebelumnya.
+* Memori: 128M atau lebih, disarankan 512M atau lebih
+* Disk: Setidaknya 4GB ruang disk kosong
+* Lainnya: Pastikan itu adalah sistem operasi yang bersih, tidak ada Apache / Nginx / PHP / MySQL / MariaDB yang diinstal sebelumnya.
 
 ### Perintah Pemasangan
 
