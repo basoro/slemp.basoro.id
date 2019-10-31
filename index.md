@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<section id="features">
+<section id="features"></section>
   
 ## Apa itu SLEMP?
 
-</section>
-  
 Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana untuk Centos, Fedora, Debian, Ubuntu, Linux Mint, Raspberry, Deepin serta Distro-distro keluarga RPM dan DEB. Berisi perangkat lunak untuk kebutuhan server web yang dipasang dan dikonfigurasikan dari kode sumbernya (bukan paket bawaan distro). 
 
 ## Fitur-Fitur
@@ -27,7 +25,7 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
 * Sinkronisasi File (Rsync Lokal atau Remote)
 * Backup ke Google Drive
 
-<section id="install">
+<section id="install"></section>
   
 ## Bagaimana cara pasang SLEMP?
 ### Persyaratan sistem:
@@ -48,9 +46,7 @@ sudo curl -o install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 ````
 
-</section>
-
-<section id="screenshot">
+<section id="screenshot"></section>
 
 ## Tangkapan layar SLEMP
 
@@ -58,4 +54,3 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-</section>
