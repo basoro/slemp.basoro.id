@@ -77,5 +77,5 @@ sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
   <span class="dot"></span> 
 </div>
 
-## Umpan Balik dan Komentar
+## Umpan Balik dan Bantuan
 
