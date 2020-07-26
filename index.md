@@ -39,12 +39,12 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
 #### Centos / Fedora (.RPM Base)
 
 ```bash
-sudo yum install -y wget && sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
+sh <(curl https://basoro.id/slemp.sh || wget -O - https://basoro.id/slemp.sh)
 ````
 #### Debian / Ubuntu / Linux Mint / Raspberry (.DEB Base)
 
 ```bash
-sudo wget -O install.sh https://basoro.id/slemp.sh && sudo bash install.sh
+sh <(curl https://basoro.id/slemp.sh || wget -O - https://basoro.id/slemp.sh)
 ````
 
 <section id="screenshot"></section>
