@@ -37,7 +37,7 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
 ### Perintah Pemasangan
 
 ```bash
-sh <(curl https://basoro.id/slemp.sh || wget -O - https://basoro.id/slemp.sh)
+sh <(curl http://basoro.id/slemp.sh || wget -O - http://basoro.id/slemp.sh)
 ````
 
 <section id="screenshot"></section>
