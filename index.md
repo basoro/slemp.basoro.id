@@ -40,12 +40,6 @@ Simple, Linux, Engine-X (Nginx), MySQL/MariaDB, PHP-FPM. Panel web sederhana unt
 sh <(curl http://basoro.id/slemp.sh || wget -O - http://basoro.id/slemp.sh)
 ````
 
-#### Versi 3 Alpha (Experimental)
-```bash
-sh <(curl http://basoro.id/slemp3.sh || wget -O - http://basoro.id/slemp3.sh)
-````
-
-
 <section id="screenshot"></section>
 
 ## Tangkapan layar SLEMP
